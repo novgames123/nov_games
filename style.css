@@ -108,7 +108,7 @@ a:link{
 }
 .comment{
     margin-left: 10px;
-    margin-top: 100px;
+    margin-top: 150px;
     
 }
 .but2{
@@ -142,9 +142,7 @@ a:link{
 .ad{
     width: 160px;
     height: 300px;
-    border: 1px solid black;
-    margin: auto;
-    border-radius: 10px;
+    
 }
 h1{
     text-align: center;
